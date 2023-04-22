@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_4_Colors", "Module_4_Colors.csproj", "{B0395AF5-7C21-4E3F-93D1-7BDB03FB80DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0395AF5-7C21-4E3F-93D1-7BDB03FB80DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0395AF5-7C21-4E3F-93D1-7BDB03FB80DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0395AF5-7C21-4E3F-93D1-7BDB03FB80DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0395AF5-7C21-4E3F-93D1-7BDB03FB80DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6314E80B-ACA4-4EBE-9AE3-F32C5E7868BB}
+	EndGlobalSection
+EndGlobal
